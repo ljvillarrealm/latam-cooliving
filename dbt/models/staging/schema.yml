@@ -1,0 +1,26 @@
+version: 2
+
+sources: 
+  - name: staging
+    database: latam-cooliving13987
+    schema: raw_latam_cooliving
+
+    tables:
+      - name: cost_of_living
+      - name: cost_of_living_dic
+      - name: currencies
+      - name: languages
+      - name: latam_countries
+
+models:
+  - name: dim_languages
+    description: >
+      Dimension of the principal languages in every country of the world.
+    columns:
+      - name: tripid
+        description: Primary key for this table, generated with language.
+        tests:
+          - unique:
+              severity: warn
+          - not_null:
+              severity: warn

@@ -1,0 +1,59 @@
+item,category,description
+city,city,Name of the city
+country,country,Name of the country
+x1,entertainment,"Meal, Inexpensive Restaurant (USD)"
+x2,entertainment,"Meal for 2 People, Mid-range Restaurant, Three-course (USD)"
+x3,food,McMeal at McDonalds (or Equivalent Combo Meal) (USD)
+x4,food,McMeal at McDonalds (or Equivalent Combo Meal) (USD)
+x5,entertainment,"Imported Beer (0.33 liter bottle, in restaurants) (USD)"
+x6,entertainment,"Cappuccino (regular, in restaurants) (USD)"
+x7,entertainment,"Coke/Pepsi (0.33 liter bottle, in restaurants) (USD)"
+x8,entertainment,"Water (0.33 liter bottle, in restaurants) (USD)"
+x9,food,"Milk (regular), (1 liter) (USD)"
+x10,food,Loaf of Fresh White Bread (500g) (USD)
+x11,food,"Rice (white), (1kg) (USD)"
+x12,food,Eggs (regular) (12) (USD)
+x13,food,Local Cheese (1kg) (USD)
+x14,food,Chicken Fillets (1kg) (USD)
+x15,food,Beef Round (1kg) (or Equivalent Back Leg Red Meat) (USD)
+x16,food,Apples (1kg) (USD)
+x17,food,Banana (1kg) (USD)
+x18,food,Oranges (1kg) (USD)
+x19,food,Tomato (1kg) (USD)
+x20,food,Potato (1kg) (USD)
+x21,food,Onion (1kg) (USD)
+x22,food,Lettuce (1 head) (USD)
+x23,food,"Water (1.5 liter bottle, at the market) (USD)"
+x24,food,"Bottle of Wine (Mid-Range, at the market) (USD)"
+x25,food,"Domestic Beer (0.5 liter bottle, at the market) (USD)"
+x26,food,"Imported Beer (0.33 liter bottle, at the market) (USD)"
+x27,entertainment,Cigarettes 20 Pack (Marlboro) (USD)
+x28,transportation,One-way Ticket (Local Transport) (USD)
+x29,transportation,Monthly Pass (Regular Price) (USD)
+x30,transportation,Taxi Start (Normal Tariff) (USD)
+x31,transportation,Taxi 1km (Normal Tariff) (USD)
+x32,transportation,Taxi 1hour Waiting (Normal Tariff) (USD)
+x33,transportation,Gasoline (1 liter) (USD)
+x34,transportation,Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car) (USD)
+x35,transportation,Toyota Corolla Sedan 1.6l 97kW Comfort (Or Equivalent New Car) (USD)
+x36,housing,"Basic (Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment (USD)"
+x37,housing,1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans) (USD)
+x38,housing,"Internet (60 Mbps or More, Unlimited Data, Cable/ADSL) (USD)"
+x39,entertainment,"Fitness Club, Monthly Fee for 1 Adult (USD)"
+x40,entertainment,Tennis Court Rent (1 Hour on Weekend) (USD)
+x41,entertainment,"Cinema, International Release, 1 Seat (USD)"
+x42,education,"Preschool (or Kindergarten), Full Day, Private, Monthly for 1 Child (USD)"
+x43,education,"International Primary School, Yearly for 1 Child (USD)"
+x44,clothes,1 Pair of Jeans (Levis 501 Or Similar) (USD)
+x45,clothes,"1 Summer Dress in a Chain Store (Zara, H&M, …) (USD)"
+x46,clothes,1 Pair of Nike Running Shoes (Mid-Range) (USD)
+x47,clothes,1 Pair of Men Leather Business Shoes (USD)
+x48,housing,Apartment (1 bedroom) in City Centre (USD)
+x49,housing,Apartment (1 bedroom) Outside of Centre (USD)
+x50,housing,Apartment (3 bedrooms) in City Centre (USD)
+x51,housing,Apartment (3 bedrooms) Outside of Centre (USD)
+x52,housing,Price per Square Meter to Buy Apartment in City Centre (USD)
+x53,housing,Price per Square Meter to Buy Apartment Outside of Centre (USD)
+x54,salary,Average Monthly Net Salary (After Tax) (USD)
+x55,mortage,"Mortgage Interest Rate in Percentages (%), Yearly, for 20 Years Fixed-Rate"
+data_quality,data quality,"0 if Numbeo considers that more contributors are needed to increase data quality, else 1"
